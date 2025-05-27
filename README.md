@@ -123,3 +123,32 @@ Threat of Consequences:         	Says failure to act will result in “permanent
 
 These are all red flags that should make recipients stop and investigate before clicking anything. 
 
+How to check the spelling errors , grammer mistakes?
+
+🔍 Manual Verification (Human Review)
+Read Carefully for Common Errors
+Look for:
+
+Misspelled words (e.g., “recieve” instead of “receive”)
+
+Incorrect verb tenses (e.g., “We was” instead of “We were”)
+
+Poor sentence structure (e.g., “You click here to verify.”)
+
+Wrong or awkward phrasing (e.g., “Your account is been locked.”)
+
+Check Tone and Style
+
+Legitimate emails from organizations are usually professionally written. Poor grammar or unnatural phrasing is often a red flag.
+
+Check the Sender’s Email Address
+
+Phishing emails often come from addresses that look odd (e.g., security@amaz0n-support.com).
+
+Paste suspicious content into tools like:
+
+Grammarly
+
+Microsoft Word (with spelling/grammar check enabled)
+
+Google Docs (built-in grammar suggestions)
